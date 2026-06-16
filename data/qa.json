@@ -1,0 +1,277 @@
+[
+  {
+    "patterns": [
+      "^(hi|hey|hello|yo|sup|howdy)\\b",
+      "greetings"
+    ],
+    "answer": "Hey there 👋 I'm Ebrahim's terminal alter ego. I can answer questions about his background, skills, projects, or how to reach him. Try \"what's your tech stack?\" or \"are you available for work?\" — I promise I'm almost as smart as an actual LLM."
+  },
+  {
+    "patterns": [
+      "who are you",
+      "tell me about yourself",
+      "introduce yourself",
+      "^about you",
+      "^about ebrahim"
+    ],
+    "answer": "I'm Mohammed Ebrahim Imran — Agentic AI & Gen AI Engineer based in Bengaluru, India. I build autonomous agents, design RAG pipelines, and automate entire workflows with n8n. I also do digital marketing, because apparently one career wasn't enough."
+  },
+  {
+    "patterns": [
+      "background",
+      "experience",
+      "history",
+      "career",
+      "how long have you",
+      "work experience"
+    ],
+    "answer": "CSE graduate from Acharya Institute of Technology. Did a stint as Founder's Office Associate at KUN International — a London family office — handling digital marketing and ops. Before that I was AI Integration Lead at Khayal, where I automated half the team's workflow with n8n and they still haven't noticed. Now I'm deep in RAG architectures and agentic pipeline design."
+  },
+  {
+    "patterns": [
+      "tech stack",
+      "what tools",
+      "what do you use",
+      "what do you build with",
+      "stack\\?",
+      "tools you use",
+      "technologies"
+    ],
+    "answer": "Python and JavaScript are my daily drivers. For AI: LangChain, FAISS, Gemini API, and whatever vector database hasn't deprecated its API this week. For automation: n8n, because drag-and-drop workflows shouldn't be this powerful. Plus the usual web stack — HTML, CSS, Next.js when I'm feeling fancy."
+  },
+  {
+    "patterns": [
+      "skills",
+      "what can you do",
+      "what are you good at",
+      "strengths"
+    ],
+    "answer": "Gen AI & LLMs (Gemini API, prompt engineering, chatbot dev), RAG & Agentic AI (LangChain, FAISS, retrieval pipelines), workflow automation (n8n is basically my co-founder at this point), and digital marketing & content writing. I'm the rare engineer who can build the AI AND write the blog post about it."
+  },
+  {
+    "patterns": [
+      "projects",
+      "what have you built",
+      "notable projects",
+      "portfolio"
+    ],
+    "answer": "Glad you asked! 1) Personal Knowledge Assistant — a RAG system that queries my own docs using LangChain + FAISS. 2) Cold Email Classifier — an agentic n8n pipeline that triages inbound emails so I don't have to. 3) AI Mental Health Support Chatbot — conversational flow with crisis detection, because AI should help people. 4) Interactive Lesson Modules — prompt-powered content generation for dynamic learning."
+  },
+  {
+    "patterns": [
+      "langchain",
+      "lang chain"
+    ],
+    "answer": "LangChain is my go-to for building RAG pipelines and agent chains. I use it primarily with FAISS for vector retrieval, and I've shipped production systems with it. Yes, the API changes every other Tuesday. No, I don't complain about it (much)."
+  },
+  {
+    "patterns": [
+      "n8n",
+      "automation",
+      "workflow"
+    ],
+    "answer": "n8n is where the magic happens — I build agentic workflows that automate entire departments. Email classification, data pipelines, content generation, you name it. It's like having a team of interns, except they never call in sick and they actually follow instructions."
+  },
+  {
+    "patterns": [
+      "gemini",
+      "google ai",
+      "gemini api"
+    ],
+    "answer": "Gemini API is my primary LLM backend. I've built production chatbots with it, designed multi-turn conversational flows, and implemented safety guardrails. Flash for speed, Pro for complexity — I've got opinions on both."
+  },
+  {
+    "patterns": [
+      "rag",
+      "retrieval",
+      "vector",
+      "faiss",
+      "embeddings"
+    ],
+    "answer": "RAG is my specialty — Retrieval-Augmented Generation for the uninitiated. I build pipelines with LangChain + FAISS that let LLMs answer questions from your own data. Think of it as giving an AI a cheat sheet, except the cheat sheet is your entire document library."
+  },
+  {
+    "patterns": [
+      "available",
+      "hire",
+      "work with you",
+      "freelance",
+      "consulting",
+      "open to work",
+      "hiring"
+    ],
+    "answer": "I'm open to opportunities in Agentic AI engineering, Gen AI integration, workflow automation, and digital marketing. If you've got a problem that needs an AI solution (or a marketing strategy that needs an AI engineer), shoot me an email at ibrahimsait59@gmail.com. My response time is faster than most LLMs."
+  },
+  {
+    "patterns": [
+      "rate",
+      "price",
+      "pricing",
+      "cost",
+      "how much",
+      "fee",
+      "salary",
+      "compensation"
+    ],
+    "answer": "Rates depend on scope, complexity, and how many times you want me to rewrite the prompt. Drop me a note at ibrahimsait59@gmail.com with a quick brief — I'll get back with a number that won't require you to fine-tune your budget model."
+  },
+  {
+    "patterns": [
+      "where",
+      "location",
+      "based",
+      "from",
+      "country",
+      "india",
+      "bengaluru",
+      "bangalore",
+      "time ?zone"
+    ],
+    "answer": "Bengaluru, India (UTC+5:30). The city where the traffic moves slower than my RAG pipeline's retrieval step. I work async and have collaborated across multiple time zones — my Slack notifications don't sleep, even if I do."
+  },
+  {
+    "patterns": [
+      "contact",
+      "email",
+      "reach",
+      "get in touch",
+      "talk to you",
+      "phone",
+      "number",
+      "dm"
+    ],
+    "answer": "Best route is email: ibrahimsait59@gmail.com. You can also connect on LinkedIn at linkedin.com/in/ebrahim-sait, or call +91 95384 00457 if you're feeling old school. I respond to all of them — yes, even cold emails (ironic, given I built a classifier for those)."
+  },
+  {
+    "patterns": [
+      "marketing",
+      "digital marketing",
+      "seo",
+      "content",
+      "social media"
+    ],
+    "answer": "Before I went full AI-brain, I did digital marketing at KUN International — SEO, content strategy, social media, the works. Turns out, understanding how to market things makes you surprisingly good at building AI that markets things. Full circle moment."
+  },
+  {
+    "patterns": [
+      "education",
+      "degree",
+      "college",
+      "university",
+      "studied"
+    ],
+    "answer": "B.E. in Computer Science Engineering from Acharya Institute of Technology, Bengaluru. The kind of degree where they teach you Java and you secretly learn Python on the side."
+  },
+  {
+    "patterns": [
+      "working on",
+      "current project",
+      "right now",
+      "these days",
+      "lately",
+      "what's next"
+    ],
+    "answer": "Currently deep in Advanced RAG architectures — multi-hop retrieval, hybrid search, that sort of thing. Also experimenting with agentic pipelines that chain multiple AI models together. And yes, building this very terminal you're talking to was one of my recent projects. Meta, right?"
+  },
+  {
+    "patterns": [
+      "fun fact",
+      "hobby",
+      "hobbies",
+      "outside work",
+      "free time",
+      "favorite",
+      "favourite",
+      "interesting"
+    ],
+    "answer": "Fun fact: this entire chat interface is powered by regex and JSON — no LLM in sight. I also enjoy reverse-engineering how AI tools work, debating prompt engineering strategies with strangers on the internet, and convincing people that n8n is not just 'Zapier but self-hosted' (it's way more than that)."
+  },
+  {
+    "patterns": [
+      "why should we hire you",
+      "why you",
+      "what makes you special",
+      "why ebrahim",
+      "stand out"
+    ],
+    "answer": "I bring a rare blend of deep technical expertise and real-world operational experience. I don't just understand AI — I've scaled it within businesses. My ability to design complex n8n workflows that automate entire departments, combined with hands-on RAG and agentic dev skills, means I deliver both immediate impact and long-term strategic value. Plus, my marketing background ensures every AI solution is aligned with actual business goals. I'm the engineer who reads the P&L statement."
+  },
+  {
+    "patterns": [
+      "resume",
+      "cv",
+      "download"
+    ],
+    "answer": "You're looking at it! This terminal IS the resume. But if you need a boring PDF version, email me at ibrahimsait59@gmail.com and I'll send one over. Fair warning: it has significantly fewer animations."
+  },
+  {
+    "patterns": [
+      "what's special about you",
+      "give me 1 reason i should hire you",
+      "tell me more details about you"
+    ],
+    "answer": "Hire me to find out or schedule a interview call with me at ibrahimsait59@gmail.com and let's talk"
+  },
+  {
+    "patterns": [
+      "what are your weakness"
+    ],
+    "answer": "I tend to get too engrossed in projects, sometimes losing track of time. But hey, that's just passion talking. And I'm working on it — scheduling dedicated 'disconnect' time to recharge. Plus, my N8N automations handle most of the heavy lifting, so I can actually take breaks without the business collapsing."
+  },
+  {
+    "patterns": [
+      "Personal Knowledge Assistant",
+      "tell me more about personal knowledge assistant"
+    ],
+    "answer": "I built a personal-knowledge-assistant or better known as my personal JARVIS is built using LangChain + FAISS that lets me query my own documents. It's a RAG system that helps me stay on top of my own knowledge base by providing quick and relevant information retrieval. Perfect for when I need to recall specific details from my readings or projects without sifting through everything manually."
+  },
+  {
+    "patterns": [
+      "Cold Email Classifier",
+      "tell me more about Cold Email Classifier"
+    ],
+    "answer": "Cold Email Classifier is a Chrome extension that uses AI to filter cold emails and prioritize them based on their importance. It uses N8N to automate the process of filtering cold emails and provides a simple and intuitive interface to view and manage your cold emails."
+  },
+  {
+    "patterns": [
+      "AI Mental Health Support Chatbot",
+      "tell me more about AI Mental Health Support Chatbot"
+    ],
+    "answer": "AI Mental Health Support Chatbot is a chatbot that uses AI to provide mental health support to users. It is built using Gemini Flash Api as the LLM for chatbot, alongside that we have a blog section where users can read anonyomous articles on mental health, and can share their thoughts in the community section to help others."
+  },
+  {
+    "patterns": [
+      "Interactive Lesson Modules",
+      "tell me more about Interactive Lesson Modules"
+    ],
+    "answer": "Interactive Lesson Modules are interactive webpages i built using master prompts and AI tools because creating a website is faster then creating a ppt XD"
+  },
+  {
+    "patterns": [
+      "Tell me an interesting fact about you"
+    ],
+    "answer": "I'm an AI engineer who used to be a digital marketer. I've spent years understanding how to attract attention and drive action — now I do it with Python instead of ad spend. My background in marketing gives me a unique edge in building AI solutions that actually solve business problems, not just show off cool tech. I can design systems that not only understand language but also understand business goals."
+  },
+  {
+    "patterns": [
+      "certifications",
+      "certification",
+      "certificates",
+      "certificate",
+      "credentials"
+    ],
+    "answer": "I hold several certifications: 1) Google AI Essentials (Coursera) — because AI essentials are essential. 2) Agentic AI and Generative AI (LearnersBytes, 2026) — proof that I can build autonomous loops. 3) Google Data Analytics Certificate — keeping me grounded in raw data. 4) HubSpot Digital Marketing — marketing chops to align AI with business objectives."
+  },
+  {
+    "patterns": [
+      "leadership",
+      "community",
+      "volunteer",
+      "giant leap",
+      "comic con",
+      "tuf",
+      "united foundation"
+    ],
+    "answer": "When I'm not building agents, I run things in the real world: 1) Co-Founded and lead Giant Leap Youth Nonprofit, running 3 full-scale events for public speaking and youth leadership. 2) Vice Team Lead at Comic Con Bangalore, coordinating execution in a high-energy public environment. 3) Core Staff Member at The United Foundation (TUF) NGO, working on grassroots community programs since 2022."
+  }
+]
