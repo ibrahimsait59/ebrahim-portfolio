@@ -55,10 +55,10 @@ const education = [
 ];
 
 const certifications = [
-  { name: "Google AI Essentials", details: "Coursera Website" },
-  { name: "Agentic AI and Generative AI", details: "LearnersBytes Website (2026)" },
-  { name: "Google Data Analytics Certificate", details: "Coursera Website" },
-  { name: "HubSpot Digital Marketing", details: "HubSpot Website" }
+  { name: "Google AI Essentials", details: "Coursera" },
+  { name: "Agentic AI and Generative AI", details: "LearnersBytes (2026)" },
+  { name: "Google Data Analytics Certificate", details: "Coursera" },
+  { name: "HubSpot Digital Marketing", details: "HubSpot" }
 ];
 
 const leadership = [
