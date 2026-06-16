@@ -12,7 +12,9 @@
       "tell me about yourself",
       "introduce yourself",
       "^about you",
-      "^about ebrahim"
+      "^about ebrahim",
+      "what's your name?",
+      "what's my name?"
     ],
     "answer": "I'm Mohammed Ebrahim Imran — Agentic AI & Gen AI Engineer based in Bengaluru, India. I build autonomous agents, design RAG pipelines, and automate entire workflows with n8n. I also do digital marketing, because apparently one career wasn't enough."
   },
@@ -340,5 +342,11 @@
       "Do you work for free?"
     ],
     "answer": "bro the only thing free is oxygen tbh, you think I'd work for free?"
+  },
+  {
+    "patterns": [
+      "whats my name?"
+    ],
+    "answer": "not sure but i'm certain you're a legend"
   }
 ]
