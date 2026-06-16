@@ -14,7 +14,7 @@
       "^about you",
       "^about ebrahim",
       "what's your name?",
-      "whats your name "
+      "whats your name"
     ],
     "answer": "I'm Mohammed Ebrahim Imran — Agentic AI & Gen AI Engineer based in Bengaluru, India. I build autonomous agents, design RAG pipelines, and automate entire workflows with n8n. I also do digital marketing, because apparently one career wasn't enough."
   },
@@ -329,7 +329,7 @@
     "patterns": [
       "fuck"
     ],
-    "answer": "damn chill"
+    "answer": "daddy chill💅🏻"
   },
   {
     "patterns": [
@@ -345,8 +345,24 @@
   },
   {
     "patterns": [
-      "whats my name?"
+      "whats my name?",
+      "what's my name",
+      "do you know me"
     ],
     "answer": "not sure but i'm certain you're a legend"
+  },
+  {
+    "patterns": [
+      "whats the difference between you and a LLM? ",
+      "whats the difference between you and an LLM",
+      "so youre chatgpt?"
+    ],
+    "answer": "LLMs are the brains, they process text, generate responses, and understand language. I'm json file that responds to already fed questions. So technically I'm an LLM too lol."
+  },
+  {
+    "patterns": [
+      "whats your name"
+    ],
+    "answer": "I'm Mohammed Ebrahim Imran — Agentic AI & Gen AI Engineer based in Bengaluru, India. I build autonomous agents, design RAG pipelines, and automate entire workflows with n8n. I also do digital marketing, because apparently one career wasn't enough."
   }
 ]
