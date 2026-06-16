@@ -28,7 +28,7 @@ const contacts = [
   { label: "linkedin", value: "ebrahim-sait", href: "https://www.linkedin.com/in/ebrahim-sait/" },
   { label: "email   ", value: "ibrahimsait59@gmail.com", href: "mailto:ibrahimsait59@gmail.com" },
   { label: "phone   ", value: "+91 95384 00457", href: "tel:+919538400457" },
-  { label: "resume  ", value: "google drive", href: "https://drive.google.com/file/d/19N3KrgiqDG66QPT6RbiUrgESY5oNwx6L/view?usp=sharing" },
+  { label: "resume  ", value: "google drive", href: "https://drive.google.com/file/d/1oOwGzwjuupD57r38dOF03IEzWtW1i2H8/view?usp=sharing" },
 ];
 
 const bioTokens: Token[] = [
