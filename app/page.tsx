@@ -28,7 +28,7 @@ const contacts = [
   { label: "linkedin", value: "ebrahim-sait", href: "https://www.linkedin.com/in/ebrahim-sait/" },
   { label: "email   ", value: "ibrahimsait59@gmail.com", href: "mailto:ibrahimsait59@gmail.com" },
   { label: "phone   ", value: "+91 95384 00457", href: "tel:+919538400457" },
-  { label: "resume  ", value: "download (pdf)", href: "/resume.pdf", download: true },
+  { label: "resume  ", value: "google drive", href: "https://drive.google.com/file/d/19N3KrgiqDG66QPT6RbiUrgESY5oNwx6L/view?usp=sharing" },
 ];
 
 const bioTokens: Token[] = [
@@ -350,7 +350,6 @@ function ContactBody({ step, streaming }: { step: number; streaming: boolean }) 
           <a
             href={c.href}
             target={c.href.startsWith("mailto:") || c.href.startsWith("tel:") ? undefined : "_blank"}
-            download={c.download ? "ebrahim_sait_resume.pdf" : undefined}
             rel="noreferrer noopener"
             className="text-highlight hover:underline"
           >
