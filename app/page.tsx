@@ -55,10 +55,10 @@ const education = [
 ];
 
 const certifications = [
-  { name: "Google AI Essentials", details: "Coursera" },
-  { name: "Agentic AI and Generative AI", details: "LearnersBytes (2026)" },
-  { name: "Google Data Analytics Certificate" },
-  { name: "HubSpot Digital Marketing" }
+  { name: "Google AI Essentials", details: "Coursera Website" },
+  { name: "Agentic AI and Generative AI", details: "LearnersBytes Website (2026)" },
+  { name: "Google Data Analytics Certificate", details: "Coursera Website" },
+  { name: "HubSpot Digital Marketing", details: "HubSpot Website" }
 ];
 
 const leadership = [
@@ -488,18 +488,6 @@ function ChatInterface() {
     if (!q) return;
     setValue("");
 
-    if (/resume|cv|download\s*(resume|cv)/i.test(q)) {
-      try {
-        const link = document.createElement("a");
-        link.href = "/resume.pdf";
-        link.download = "ebrahim_sait_resume.pdf";
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-      } catch (err) {
-        console.error("Failed to trigger download automatically", err);
-      }
-    }
 
     const answer = findAnswer(q);
     const words = tokenize(answer);
