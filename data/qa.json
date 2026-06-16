@@ -208,7 +208,9 @@
     "patterns": [
       "what's special about you",
       "give me 1 reason i should hire you",
-      "tell me more details about you"
+      "tell me more details about you",
+      "how are you different from other candidates",
+      "how are you different from other engineers"
     ],
     "answer": "Hire me to find out or schedule a interview call with me at ibrahimsait59@gmail.com and let's talk"
   },
@@ -273,5 +275,40 @@
       "united foundation"
     ],
     "answer": "When I'm not building agents, I run things in the real world: 1) Co-Founded and lead Giant Leap Youth Nonprofit, executing 3 full-scale events for public speaking and youth leadership as part of the core team. 2) Vice Team Lead at Comic Con Bangalore, coordinating execution in a high-energy public environment. 3) Core Staff Member at The United Foundation (TUF) NGO, working on grassroots community programs since 2022."
+  },
+  {
+    "patterns": [
+      "okay",
+      "ok",
+      "cool",
+      "thanks"
+    ],
+    "answer": "You're welcome! Feel free to ask if you have any other questions."
+  },
+  {
+    "patterns": [
+      "biggest project",
+      "most challenging project",
+      "hardest project you've worked on"
+    ],
+    "answer": "My most challenging project has been developing an autonomous agent ecosystem using n8n. It started with a simple automation but evolved into a complex system capable of handling multi-step decision-making, external API integrations, and self-error correction. The biggest hurdle was managing state across different workflows while maintaining real-time responsiveness. I ended up building a custom state management layer using Redis and designing a fail-safe mechanism that could gracefully handle unexpected API responses. It taught me that the real challenge in AI engineering isn't just building the model—it's building the infrastructure that lets it operate reliably in the real world. That project is now the backbone of my freelance operations, handling everything from lead qualification to project delivery coordination."
+  },
+  {
+    "patterns": [
+      "business impact",
+      "results",
+      "achievements",
+      "what impact have you made"
+    ],
+    "answer": "While i worked at Khayal, i created their entire social media presence and content strategy from scratch, which resulted in a 200% increase in followers and a 150% increase in engagement in just 3 months. I also managed their email marketing campaigns, which resulted in a 50% increase in click-through rates. I also helped them with lead generation and sales, which resulted in a 25% increase in revenue in just 6 months."
+  },
+  {
+    "patterns": [
+      "convince me to hire you",
+      "why should i hire you",
+      "sell yourself",
+      "pitch yourself"
+    ],
+    "answer": "Most engineers can build the thing. Most marketers can sell the thing. Most project managers can organize the thing. I'm greedy — I learned all three. I can design an AI workflow, automate it with n8n, explain it to stakeholders without causing a collective migraine, and then write the LinkedIn post announcing it. That's a surprisingly rare skill tree. Worst case? You hire someone who asks too many questions and automates half your repetitive work. Best case? You wonder how you operated without me. Either way, it's a positive ROI."
   }
 ]
