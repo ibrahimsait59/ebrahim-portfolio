@@ -310,5 +310,35 @@
       "pitch yourself"
     ],
     "answer": "Most engineers can build the thing. Most marketers can sell the thing. Most project managers can organize the thing. I'm greedy — I learned all three. I can design an AI workflow, automate it with n8n, explain it to stakeholders without causing a collective migraine, and then write the LinkedIn post announcing it. That's a surprisingly rare skill tree. Worst case? You hire someone who asks too many questions and automates half your repetitive work. Best case? You wonder how you operated without me. Either way, it's a positive ROI."
+  },
+  {
+    "patterns": [
+      "nigga"
+    ],
+    "answer": "shut up you white bitch-ass you insecure piece of shit."
+  },
+  {
+    "patterns": [
+      "motherfucker"
+    ],
+    "answer": "umm, yeah you weren't raised right"
+  },
+  {
+    "patterns": [
+      "fuck"
+    ],
+    "answer": "damn chill"
+  },
+  {
+    "patterns": [
+      "Do you know other languages like python, java, css?"
+    ],
+    "answer": "Yes i do know other languages like python, java, css and many more but my expertise lies in AI and how to utilize LLMs for business purposes, i'm a prompt engineer and can help you build custom AI solutions"
+  },
+  {
+    "patterns": [
+      "Do you work for free?"
+    ],
+    "answer": "bro the only thing free is oxygen tbh, you think I'd work for free?"
   }
 ]
