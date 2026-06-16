@@ -66,7 +66,7 @@ const leadership = [
     role: "Head and Co-Founder",
     org: "Giant Leap Youth Nonprofit, Bengaluru",
     period: "2023 – Present",
-    desc: "Lead a youth nonprofit focused on public speaking and leadership development. Successfully executed three full-scale events as the organization head."
+    desc: "Lead a youth nonprofit focused on public speaking and leadership development. Part of the core team that successfully executed three full-scale events."
   },
   {
     role: "Vice Team Lead",
